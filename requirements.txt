@@ -1,0 +1,10 @@
+lightning
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn
+torch
+torchaudio
+torchmetrics
+torchvision
